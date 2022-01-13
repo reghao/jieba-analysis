@@ -1,4 +1,4 @@
-package com.qianxinyao.analysis.jieba.keyword;
+package com.huaban.analysis.jieba.qianxinyao.keyword;
 
 /**
  * @author Tom Qian
